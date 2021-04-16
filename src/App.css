@@ -1,0 +1,75 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.insult_container {
+  padding-bottom: 15px;
+  padding-top: 15px;
+  background-color: #282c34;
+  min-height: 10vh;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border-radius: 25px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.try_again {
+  cursor: pointer;
+  color: white;
+  align-content: center;
+  outline: none;
+  border: none;
+  font-weight: 700;
+  border-radius: 0.2vw;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-right: 1srem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-bottom: 20px;
+  background-color: rgba(51, 51, 51, 0.5);
+}
+
+.try_again:hover {
+  /* for buttons to switch their colors when hovered upon */
+  color: #000;
+  background-color: white;
+  transition: all 0.2s; /* changes to take place gradually in given time */
+}
+
+.main_container {
+  background-color: cyan;
+  padding-top: 10px;
+  height: 100%;
+  min-height: 100%;
+  text-align: center;
+  color: black;
+}
+
+.meme {
+  padding-top: 25px;
+}
