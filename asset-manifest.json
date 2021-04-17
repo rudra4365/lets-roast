@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lets-roast/static/css/main.cee6f9b9.chunk.css",
+    "main.js": "/lets-roast/static/js/main.4a38f386.chunk.js",
+    "main.js.map": "/lets-roast/static/js/main.4a38f386.chunk.js.map",
+    "runtime-main.js": "/lets-roast/static/js/runtime-main.b3b6b534.js",
+    "runtime-main.js.map": "/lets-roast/static/js/runtime-main.b3b6b534.js.map",
+    "static/js/2.e111a72e.chunk.js": "/lets-roast/static/js/2.e111a72e.chunk.js",
+    "static/js/2.e111a72e.chunk.js.map": "/lets-roast/static/js/2.e111a72e.chunk.js.map",
+    "static/js/3.45fed268.chunk.js": "/lets-roast/static/js/3.45fed268.chunk.js",
+    "static/js/3.45fed268.chunk.js.map": "/lets-roast/static/js/3.45fed268.chunk.js.map",
+    "index.html": "/lets-roast/index.html",
+    "static/css/main.cee6f9b9.chunk.css.map": "/lets-roast/static/css/main.cee6f9b9.chunk.css.map",
+    "static/js/2.e111a72e.chunk.js.LICENSE.txt": "/lets-roast/static/js/2.e111a72e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3b6b534.js",
+    "static/js/2.e111a72e.chunk.js",
+    "static/css/main.cee6f9b9.chunk.css",
+    "static/js/main.4a38f386.chunk.js"
+  ]
+}
