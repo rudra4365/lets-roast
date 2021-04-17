@@ -3,7 +3,7 @@ import React, {useState, useEffect} from 'react';
 import './App.css'
 
 function App() {
-  const [message, setMessage] = useState("");
+  const [message, setMessage] = useState("initial");
 
   function refreshPage() {
     window.location.reload(false);
